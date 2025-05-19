@@ -1,0 +1,13 @@
+open site
+goto cookies
+see Identity cookie with JWT token
+Decode JWT token with online decoder
+get flag
+
+NEEDS:
+flask installed to run
+
+Hint1:
+check the cookies
+Hint2:
+whats a jwt?
